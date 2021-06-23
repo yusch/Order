@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/Order.dir/main.c.o CMakeFiles/Order.dir/gcd.c.o CMakeFiles/Order.dir/modpow.c.o -o Order  -lm 

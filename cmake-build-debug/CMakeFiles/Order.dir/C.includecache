@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuschumacher/Documents/GitHub/Order/gcd.h
+stdio.h
+-
+
+/home/yuschumacher/Documents/GitHub/Order/main.c
+stdio.h
+-
+math.h
+-
+gcd.h
+/home/yuschumacher/Documents/GitHub/Order/gcd.h
+modpow.h
+/home/yuschumacher/Documents/GitHub/Order/modpow.h
+
+/home/yuschumacher/Documents/GitHub/Order/modpow.h
+
